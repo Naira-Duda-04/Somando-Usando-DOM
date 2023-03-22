@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    margin: 0;
+    display: flex;flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url(ca);
+    background-image: url(https://png.pngtree.com/background/20210712/original/pngtree-cute-hand-drawn-style-mathematics-education-pink-stripes-background-picture-image_1176959.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #d5782b;
+    font-size: 55px;
+}
+
+input{
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #fcd474;
+    border: brown;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow' ;
+    color: #6e3e15;
+}
+
+p{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ac8463;
+}
+
+#resp{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ac8463;
+}
